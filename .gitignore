@@ -1,0 +1,45 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+ENV/
+
+# 환경 변수
+.env
+
+# 데이터 파일 (선택적)
+# data/*.csv
+
+# 리포트 파일
+# reports/*.xlsx
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+```
+
+---
+
+### `data/.gitkeep`
+```
+# 데이터 파일 저장 디렉토리
+```
+
+---
+
+### `reports/.gitkeep`
+```
+# 리포트 파일 저장 디렉토리
