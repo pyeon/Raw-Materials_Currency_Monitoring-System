@@ -1,0 +1,14 @@
+# 데이터 수집
+yfinance==0.2.40
+pandas==2.2.2
+numpy==1.26.4
+requests==2.31.0
+
+# 엑셀 생성
+openpyxl==3.1.2
+
+# 시간대 처리
+pytz==2024.1
+
+# 기타
+python-dotenv==1.0.1
